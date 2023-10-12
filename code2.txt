@@ -1,0 +1,13 @@
+assets: This folder consists of forged input images
+copy_move_detection: This folder consists of a block.py(used to compute pca and then 7-charaxteristics features), container.py(to store feature vectors in a container), detect (used to specify the path for input and output result folders) and image_object.py (used to call pca function and for pixel value comparison)
+result: consists of result images
+Main.py: main file to specify the block size and call input image
+
+Libraries Installation:
+numpy
+sklearn
+tqdm
+pillow
+imageio
+
+Python: 3.7.1

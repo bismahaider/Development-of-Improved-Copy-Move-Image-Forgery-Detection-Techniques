@@ -1,0 +1,6 @@
+Forged Input Images Folder: Input Forged Images
+Forgery Detected Outputs: we can save the ouput images in this folder if we want
+Forgery Detection.py: This file consists of SIFT and DBSCAN algorith
+Main.py: This is the main file for Input image, pre and post processing step
+
+Python 3.7.1
